@@ -1,4 +1,4 @@
-####Dockerized symfony project using docker-compose file
+#### Dockerized symfony project using docker-compose file
 
 **Created with ```composer create-project symfony/skeleton .``` command**
 
